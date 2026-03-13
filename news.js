@@ -4,4 +4,4 @@ console.log(news);
 
 const anotherNews = "this is another news";
 
-console.log(anotherNews);
+console.log(anotherNews);   
